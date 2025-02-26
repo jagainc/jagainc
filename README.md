@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jagainc
+- 👋 Hi, I’m @jagadeesh
 - 👀 I’m interested in web development and gaming
 - 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on front end project mate
