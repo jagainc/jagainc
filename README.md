@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! i'am Jagadeesh i like to create standalone applications and web apps <br><br>👩‍💻i have experince in prompt engineering over 2 years<br><br>💻i have created various projects like a short form content app using python<br><br>📐 also i have experince in Java spring , python pyqt ,Yolov8,and android dev
+Hi! i'am Jagadeesh i like to create standalone applications and web apps <br><br>👩‍💻i have experience in prompt engineering over 2 years<br><br>💻i have created various projects like a short form content app using python<br><br>📐 also i have experince in Java spring , python pyqt ,Yolov8,and android dev
 
 
 ## 🌐 Socials:
