@@ -1,5 +1,5 @@
 # About Me:
-Not a big fan of liquid glass effect <br><br>i build clean apps to solve my day to day problems <br><br><br><br>Building FromZero 
+Not a big fan of liquid glass effect <br><br>i build clean apps to solve my day to day problems <br><br><br><br>FromZero 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshwaran-p-s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshwaranps2005@gmail.com) 
