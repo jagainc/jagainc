@@ -18,7 +18,7 @@ Not a big fan of liquid glass effect <br><br>i build apps to solve my day to day
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic\&logo=opencv\&logoColor=black)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-AI-blue?style=plastic)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic\&logo=figma\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
 
