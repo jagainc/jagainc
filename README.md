@@ -6,6 +6,7 @@ Not a big fan of liquid glass effect <br><br>i build apps to solve my day to day
 
 # Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
 ![PyQt](https://img.shields.io/badge/pyqt-%2300A1F1.svg?style=plastic\&logo=qt\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic\&logo=pandas\&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=plastic\&logo=redis\&logoColor=white)
