@@ -1,10 +1,10 @@
 # About Me:
 Not a big fan of liquid glass effect <br><br>i build apps to solve my day to day problems <br><br>FromZero 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagadeeshwaran-p-s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jagadeeshwaranps2005@gmail.com) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
 ![PyQt](https://img.shields.io/badge/pyqt-%2300A1F1.svg?style=plastic\&logo=qt\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic\&logo=pandas\&logoColor=white)
